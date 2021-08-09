@@ -16,4 +16,4 @@
 ![layer_2](./change.png)
 
 
-The SUDT ID from the console output after executing the deposit script [in text format](./sudt_id.txt).
+### The SUDT ID from the console output after executing the deposit script [in text format](./sudt_id.txt).
