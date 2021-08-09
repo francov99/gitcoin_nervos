@@ -1,0 +1,4 @@
+The Ethereum address used to generate the Deposit Receiver Address (in text format):
+
+
+Ethereum address: 0x84D6eb242a340ED4d5334748DBE85c5678B17AdA
