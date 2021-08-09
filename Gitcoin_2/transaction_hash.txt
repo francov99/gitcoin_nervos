@@ -1,0 +1,3 @@
+The transaction hash from the contract deployment (in text format):
+
+Transaction hash: 0xf3a617a20c9f469f7a3e3228fd129e9eb855fd0fd8c1de2e07870a5d6ad1076d
