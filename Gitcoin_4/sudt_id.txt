@@ -1,0 +1,3 @@
+The SUDT ID from the console output after executing the deposit script (in text format):
+
+Your sudt id: 605
