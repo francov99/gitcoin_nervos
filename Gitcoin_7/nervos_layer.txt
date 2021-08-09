@@ -1,0 +1,3 @@
+The Nervos Layer 1 address that you passed to withdraw command (in text format):
+
+testnet: ckt1qyq8306plgqffaxrmf4ylde2spt3xyshcj8qqfqjxf
