@@ -4,6 +4,6 @@
 
 ![consola](./eth.png)
 
-The transaction hash from the contract deployment [in text format](./transaction_hash.txt)
+The transaction hash from the contract deployment [in text format](./transaction_hash.txt).
 
 The deployed contract address from the contract deployment [in text format](./contract_address.txt).
