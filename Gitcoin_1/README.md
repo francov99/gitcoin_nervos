@@ -4,7 +4,7 @@
 
 ![ckb-cli](./list.png)
 
-[link](https://explorer.nervos.org/aggron/address/ckt1qyq8306plgqffaxrmf4ylde2spt3xyshcj8qqfqjxf) to the Layer 1 address you funded on the Testnet Explorer.
+# [link](https://explorer.nervos.org/aggron/address/ckt1qyq8306plgqffaxrmf4ylde2spt3xyshcj8qqfqjxf) to the Layer 1 address you funded on the Testnet Explorer.
 
 ![transaction](./trans.png)
 
